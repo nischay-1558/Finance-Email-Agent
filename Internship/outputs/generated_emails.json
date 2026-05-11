@@ -1,0 +1,38 @@
+[
+  {
+    "to": "rajesh.kapoor@example.com",
+    "invoice_no": "INV-2026-001",
+    "stage": "1st Follow-Up",
+    "tone": "Warm & Friendly",
+    "subject": "Quick reminder: Invoice INV-2026-001 payment due",
+    "body": "Hi Rajesh Kapoor,\n\nI hope you are doing well. This is a friendly reminder for Kapoor Textiles that Invoice INV-2026-001 for INR 45,000 was due on 07 May 2026 and is now 3 day(s) overdue.\n\nIf the payment has already been processed, please ignore this note. Otherwise, you can complete it here:\nhttps://pay.example.com/invoices/INV-2026-001\n\nThanks,\nAisha Mehta",
+    "send_status": "dry_run_logged"
+  },
+  {
+    "to": "meera.sethi@example.com",
+    "invoice_no": "INV-2026-002",
+    "stage": "2nd Follow-Up",
+    "tone": "Polite but Firm",
+    "subject": "Payment confirmation requested: Invoice INV-2026-002",
+    "body": "Dear Meera Sethi,\n\nOur records show that Invoice INV-2026-002 for Northstar Retail remains unpaid in the amount of INR 118,500. The invoice was due on 29 Apr 2026 and is currently 11 day(s) overdue.\n\nPlease confirm the expected payment date, or use the payment link below to settle the balance:\nhttps://pay.example.com/invoices/INV-2026-002\n\nRegards,\nAisha Mehta",
+    "send_status": "dry_run_logged"
+  },
+  {
+    "to": "arjun.rao@example.com",
+    "invoice_no": "INV-2026-003",
+    "stage": "3rd Follow-Up",
+    "tone": "Formal & Serious",
+    "subject": "IMPORTANT: Outstanding payment for Invoice INV-2026-003",
+    "body": "Dear Arjun Rao,\n\nDespite previous reminders, Invoice INV-2026-003 for INR 78,000 remains unpaid as of 10 May 2026. It is now 19 day(s) overdue from the due date of 21 Apr 2026.\n\nWe request your immediate attention. Continued non-payment may affect your credit terms with BluePeak Logistics. Please respond within 48 hours with a payment confirmation or complete payment here:\nhttps://pay.example.com/invoices/INV-2026-003\n\nSincerely,\nRohan Shah",
+    "send_status": "dry_run_logged"
+  },
+  {
+    "to": "nisha.verma@example.com",
+    "invoice_no": "INV-2026-004",
+    "stage": "4th Follow-Up",
+    "tone": "Stern & Urgent",
+    "subject": "FINAL NOTICE: Invoice INV-2026-004 requires immediate action",
+    "body": "Dear Nisha Verma,\n\nThis is the final automated reminder for Invoice INV-2026-004 for Zenith Components (INR 256,000). The payment was due on 12 Apr 2026 and is now 28 day(s) overdue.\n\nPlease remit payment immediately using the link below or contact us today to resolve the matter. If we do not receive payment or a firm response, this account will be escalated for manual finance review.\nhttps://pay.example.com/invoices/INV-2026-004\n\nRegards,\nRohan Shah",
+    "send_status": "dry_run_logged"
+  }
+]

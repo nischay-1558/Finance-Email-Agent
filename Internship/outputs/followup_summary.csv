@@ -1,0 +1,7 @@
+timestamp,invoice_no,client_name,contact_email,amount_due,due_date,days_overdue,follow_up_count,stage,tone,action,send_status,validation_errors,subject
+2026-05-10T09:39:45.703246+00:00,INV-2026-001,Kapoor Textiles,ra***@example.com,45000,2026-05-07,3,0,1st Follow-Up,Warm & Friendly,send_email,dry_run_logged,[],Quick reminder: Invoice INV-2026-001 payment due
+2026-05-10T09:39:45.703246+00:00,INV-2026-002,Northstar Retail,me***@example.com,118500,2026-04-29,11,1,2nd Follow-Up,Polite but Firm,send_email,dry_run_logged,[],Payment confirmation requested: Invoice INV-2026-002
+2026-05-10T09:39:45.703246+00:00,INV-2026-003,BluePeak Logistics,ar***@example.com,78000,2026-04-21,19,2,3rd Follow-Up,Formal & Serious,send_email,dry_run_logged,[],IMPORTANT: Outstanding payment for Invoice INV-2026-003
+2026-05-10T09:39:45.703246+00:00,INV-2026-004,Zenith Components,ni***@example.com,256000,2026-04-12,28,3,4th Follow-Up,Stern & Urgent,send_email,dry_run_logged,[],FINAL NOTICE: Invoice INV-2026-004 requires immediate action
+2026-05-10T09:39:45.703246+00:00,INV-2026-005,OmniBuild Infra,vi***@example.com,395000,2026-04-01,39,4,Escalation Flag,Flag for Legal,flag_legal_review,flagged_for_manual_review,[],
+2026-05-10T09:39:45.703246+00:00,INV-2026-006,FreshCart Foods,de***@example.com,52000,2026-05-15,-5,0,Not Overdue,None,skip_not_overdue,skipped_not_overdue,[],

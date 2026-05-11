@@ -1,0 +1,6 @@
+# The prototype runs on the Python standard library.
+# Optional production integrations can add:
+# openai
+# python-dotenv
+# pandas
+# apscheduler
